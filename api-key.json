@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "neat-verbena-236903",
+  "private_key_id": "3dbf8368796f17497aa0620d0401014be8a1835a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvyvIfFPqsMRBp\ns8Sg98CvN0ixBzjq4qWLvIWj+rE/MjYnNWvvxt6tPZVHC0b0M+EGuCjNlE10msce\nNYvAz4ir205YL7MtgNFbB6FTq8hXzhYgRoNvUpAf3loWXMWQhbot35m63WPlA1Em\ninxXGiy2JgXN+XH4MrRcss7acjg8+RGgNt1d9KdcQrlOV/sbAmnKoyPLqN7xO6Bx\nwIAOMME0CfkurYPFflQ3dIwZiS7QipAGpNBrph8hRAk/9UhLvglJi6fTiQ6kXJCK\ntdurclxAtR0j7tRL+o/z7aLkVw1AtT6Y44pv8tsT9myFzfTEexvR4nqYPTRH2dkp\nWsqNMsstAgMBAAECggEAKDWBKpNbn/GsCaVtCw2IRPud9KIMhotXZs40+jQwAR68\nzLyXJvXjvpf4slKVxOst5CHQ8W7jxZFWjKYeRHijz/1eXuTwNK8Dk/D7mV4QOedB\nX9oJG7g0j5mGHRnUtbEky/PaX6fefsZCtFBWTv0Fb5dkWf/drfH5F7/teQFJtEY5\n6ie739Gxh9rbG7VhhDlGad0Ewc1aejjVarYd1Zi8yexhQCvUKU8PxAdE9cMwD+Ah\njjnKQN+kQ2mPV9giTHljG3H/m1PkZn55auaunjW33oyhfLilZGrvtFMQFkqV2weO\nEsA+9kuXK47skAeqjkcJ8WWJX+Um0MO1ptJhqX7lWQKBgQDgiWgPg9S+9hpS3d6F\nVHu8X8TEe1j69J90XELW6qxS4bFikMibkotpOxYhJHfdnj/C4NwzbBNZaHXyF2Eo\nedeRUbmazHi2TNVLqZ14/QR+6vCrhy/gfmP0tGbMa55DWJep+LfSUIej+HuxoqMq\nV31aXYQvaWtydm8YLM7x+M2GlQKBgQDIbP4VWfr/LPqnWdET9faQd+D4aRGU8xaQ\n8cjyfzX8diEvYpPUM++Djprqflcp+e2RA9O/kuEgiDEiBHAsU9mxbL7z6dbr5VB+\nXpOjwPcxsLtpzlZkTCnBQ1j6GSkFckWeHZ1FGm97JIMOwc9z/epzJCvmrm/SMEIJ\noWoa2h+EOQKBgQC0r54frhSLPvvb51LjtCKGagKroh7ug9+1AXGABQR7Bcd668ui\n9YBeRAAA15nlqyzgI5bPgo7nidov4IR8z9+av0s+uIADIz0ZT/q6m9D8WQ8m2Pi8\nDLle97UplwiaZTZWvyEdi1Q7rP/M6HWo4xKqn0p55LlkOM4ZhCVcLr0lKQKBgDAb\nCPky+a2ZrCfSxP4XgTC3tUWqYk/v8LCld+fMZLbN27U14emC9bAL4F78KAupMz4l\nPwOyS1q1laVmj030akHNqh99Ntqz1ZgfNyyMukgw9Sq2HcJBDZyXf5m3xELMZK1I\nymC1saBK6TH3jsV2Ynl0ax0ZLTmz34XUOlVrmTjxAoGBALEtpY7ql+vJfQAu2wIY\nuFZRZqgiBLClnPTHMsCrHF5VCSTKixd5auOynF535zX8fc6fTVGOZDe2e98k5n1s\n+jDgJBrCo2EaUg1lBS9jtjRN46XV4nJgKD+D9fEix5I8Ojs67y33ObStnZ5gPtnB\n6GN+P9SQiu4IFcBaW7ByofNd\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-to-text-pritam@neat-verbena-236903.iam.gserviceaccount.com",
+  "client_id": "100973845171710743037",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-to-text-pritam%40neat-verbena-236903.iam.gserviceaccount.com"
+}
